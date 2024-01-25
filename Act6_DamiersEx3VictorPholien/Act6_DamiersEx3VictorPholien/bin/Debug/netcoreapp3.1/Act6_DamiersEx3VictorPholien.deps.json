@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Act6_DamiersEx3VictorPholien/1.0.0": {
+        "runtime": {
+          "Act6_DamiersEx3VictorPholien.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Act6_DamiersEx3VictorPholien/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
